@@ -76,4 +76,4 @@ A lot can still be done :).
 - Add more visualizations
 
 ### Special Mentions
-I'd like to thank the [DataTalks.Club](https://datatalks.club) for offering this Data Engineering course for completely free and [Ankur Chavda] (https://github.com/ankurchavda) for making the implementation of this project more easy. All the tecchnologies covered in this course enabled me to come up with this project. If you want to upskill on Data Engineering technologies, please check out the [course](https://github.com/DataTalksClub/data-engineering-zoomcamp). :)# streamify
+I'd like to thank the [DataTalks.Club](https://datatalks.club) for offering this Data Engineering course for completely free and [Ankur Chavda](https://github.com/ankurchavda) for making the implementation of this project more easy. All the tecchnologies covered in this course enabled me to come up with this project. If you want to upskill on Data Engineering technologies, please check out the [course](https://github.com/DataTalksClub/data-engineering-zoomcamp). :)# streamify
