@@ -51,8 +51,6 @@ If you already have a Google Cloud account and a working terraform setup, you ca
 
 ### Get Going!
 
-A video walkthrough of how I run my project - [YouTube Video](https://youtu.be/vzoYhI8KTlY)
-
 - Procure infra on GCP with Terraform - [Setup](setup/terraform.md)
 - (Extra) SSH into your VMs, Forward Ports - [Setup](setup/ssh.md)
 - Setup Kafka Compute Instance and start sending messages from Eventsim - [Setup](setup/kafka.md)
@@ -76,4 +74,4 @@ A lot can still be done :).
 - Add more visualizations
 
 ### Special Mentions
-I'd like to thank the [DataTalks.Club](https://datatalks.club) for offering this Data Engineering course for completely free and [Ankur Chavda](https://github.com/ankurchavda) for making the implementation of this project more easy. All the tecchnologies covered in this course enabled me to come up with this project. If you want to upskill on Data Engineering technologies, please check out the [course](https://github.com/DataTalksClub/data-engineering-zoomcamp). :)# streamify
+I'd like to thank the [DataTalks.Club](https://datatalks.club) for offering this Data Engineering course for completely free and [Ankur Chavda](https://github.com/ankurchavda) for making the implementation of this project more easy. All the tecchnologies covered in this course enabled me to come up with this project. If you want to upskill on Data Engineering technologies, please check out the [course](https://github.com/DataTalksClub/data-engineering-zoomcamp).

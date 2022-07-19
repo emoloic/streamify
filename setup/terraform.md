@@ -25,11 +25,10 @@ Spin up the Infra -
 
 - Terraform plan should show the creation of following services -
 
-  - `e2-standard-4` Compute Instance for Kafka
-  - `e2-standard-4` Compute Instance for Airflow
+  - `e2-standard-2` Compute Instance for Kafka
+  - `e2-standard-2` Compute Instance for Airflow
   - Dataproc Spark Cluster
     - One `e2-standard-2` Master node
-    - Two `e2-medium` Worker nodes
   - A Google Cloud Storage bucket
   - Two Bigquery Datasets
     - streamify_stg
@@ -47,5 +46,3 @@ Spin up the Infra -
   ```bash
   terraform destroy
   ```
-
-**Note:** The infra was setup a tad generously, you might not actually be fully utilizing the compute power. Feel free to reduce the instance sizes and test.
