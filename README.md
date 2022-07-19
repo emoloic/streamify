@@ -34,7 +34,7 @@ Eventsim uses song data from [Million Songs Dataset](http://millionsongdataset.c
 
 ### Final Result
 
-![dashboard](images/dashboard.PNGs)
+![dashboard](images/dashboard.PNG)
 ## Setup
 
 **WARNING: You will be charged for all the infra setup. You can avail 300$ in credit by creating a new account on GCP.**
