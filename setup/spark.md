@@ -12,7 +12,7 @@ We will start the Spark Streaming process in the DataProc cluster we created to 
 - Clone git repo
 
   ```bash
-  git clone https://github.com/ankurchavda/streamify.git && \
+  git clone https://github.com/emoloic/streamify.git && \
   cd streamify/spark_streaming
   ```
 
