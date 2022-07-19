@@ -7,7 +7,7 @@ We will setup Kafka and eventsim in two separate docker processes in a dedicated
 - Establish SSH connection
 
   ```bash
-  ssh streamify-kafka
+  ssh streamify-kafka-instance
   ```
 
 - Clone git repo and cd into Kafka folder

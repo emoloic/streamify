@@ -29,6 +29,7 @@ Spin up the Infra -
   - `e2-standard-2` Compute Instance for Airflow
   - Dataproc Spark Cluster
     - One `e2-standard-2` Master node
+	Our spark cluster consists of only one node(Master Node). You can use a multinode cluster instead with two or more worker node. [Guide](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/dataproc_cluster)
   - A Google Cloud Storage bucket
   - Two Bigquery Datasets
     - streamify_stg
